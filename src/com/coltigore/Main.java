@@ -19,5 +19,8 @@ public class Main {
             Thread.sleep(clip.getMicrosecondLength() / 1000);
 
         }catch (Exception e)
+        {
+            
+        }
     }
 }
